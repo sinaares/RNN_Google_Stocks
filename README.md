@@ -23,9 +23,3 @@ This project demonstrates how to predict Google stock prices using a Long Short-
 - `Google_Stock_Price_Train.csv` – Historical stock price data for training (2012–2016)
 - `Google_Stock_Price_Test.csv` – Stock price data for testing (2017)
 
-## 🚀 How to Run
-
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/google-stock-price-prediction.git
-   cd google-stock-price-prediction
